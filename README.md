@@ -1,6 +1,6 @@
 
-![WhatsApp%20Image%202023-09-03%20at%205.43.25%20PM.jpeg](attachment:WhatsApp%20Image%202023-09-03%20at%205.43.25%20PM.jpeg)
 
+![WhatsApp Image 2023-09-03 at 5 43 25 PM](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/b6116ca0-9f04-418d-9d92-d5d495910796)
 
 # Sai Tara Kunduru
 
