@@ -86,7 +86,7 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 * The plot aims to visually demonstrate whether there's a significant relationship between booking cancellations and repeat customers.
 * The resulting bar plot should show the relationship between whether a booking was canceled and whether the guest was a repeated guest. 
 * Each bar in the plot represents a combination of is_canceled and is_repeated_guest values, and the height of the bar represents the frequency (or count) of that combination in the target_data_summary data set.
-"C:\Users\kundu\Downloads\606.png"
+![606](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/7445df57-f371-48d6-b726-dc4d7168210c)
 
 
 * This boxplot is desxigned to show the relationship between hotel booking cancellations (is_canceled), lead time (lead_time), and hotel type (hotel). Data is sourced from a DataFrame named hotel_data.
