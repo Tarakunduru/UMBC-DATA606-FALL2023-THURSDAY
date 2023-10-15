@@ -81,23 +81,21 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 
 * This plot is designed to show the relationship between two variables: whether a hotel booking was canceled (is_canceled) and whether the guest who made the booking is a repeated guest (is_repeated_guest).
 * The is_canceled column likely contains binary values (0 or 1) indicating whether each booking was canceled or not, and the is_repeated_guest column also likely contains binary values indicating whether each guest is a repeated guest or not.
-* The data for the plot is sourced from a DataFrame named target_data_summary. In this plot, the is_canceled variable is represented on the x-axis, and is_repeated_guest is on the y-axis.
 * The bars in the plot represent the frequency of each combination of is_canceled and is_repeated_guest values in the data.
-* The plot aims to visually demonstrate whether there's a significant relationship between booking cancellations and repeat customers.
 * The resulting bar plot should show the relationship between whether a booking was canceled and whether the guest was a repeated guest. 
 * Each bar in the plot represents a combination of is_canceled and is_repeated_guest values, and the height of the bar represents the frequency (or count) of that combination in the target_data_summary data set.
-![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/de9731e8-7e3c-435e-89b6-e596390c60d1)
+  ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/de9731e8-7e3c-435e-89b6-e596390c60d1)
 
-* This boxplot is desxigned to show the relationship between hotel booking cancellations (is_canceled), lead time (lead_time), and hotel type (hotel). Data is sourced from a DataFrame named hotel_data.
+* This boxplot is designed to show the relationship between hotel booking cancellations (is_canceled), lead time (lead_time), and hotel type (hotel). 
 * The x-axis represents booking cancellations, the y-axis represents lead time, and different hotel types are differentiated using the hue parameter. 
 * This plot aims to compare lead time distributions for canceled and non-canceled bookings for both resort and city hotels. The title "resort and city hotel outliers" suggests a focus on identifying outliers in these distributions.
-  ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/974d31fc-47d5-4720-8456-321fea578864)
+   ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/974d31fc-47d5-4720-8456-321fea578864)
 
 
 * This boxplot examines the relationship between hotel booking cancellations (is_canceled), the number of weekend nights stayed (stays_in_weekend_nights), and the type of hotel (hotel). 
 * The x-axis represents booking cancellations, the y-axis represents the number of weekend nights stayed, and different hotel types are differentiated using the hue parameter.
 * The plot's purpose is to compare the distribution of weekend nights stayed for canceled and non-canceled bookings across different hotel types. The title "resort and city hotel outliers" suggests a focus on identifying outliers in this distribution.
- ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/0d4d7e1c-7c90-4037-ba2e-09910c7ee53e)
+   ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/0d4d7e1c-7c90-4037-ba2e-09910c7ee53e)
 
 
 
@@ -110,7 +108,7 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 * This plot explore the relationship between reserved room types (reserved_room_type), lead time for booking (lead_time), and hotel type (hotel) in the hotel_data DataFrame.
 * The x-axis represents the different room types, while the y-axis represents the lead time for bookings. The catplot function is used with data set to hotel_data, x set to 'reserved_room_type', y set to 'lead_time', and col set to 'hotel'.
 * This creates separate plots for each hotel type. The color of the plot points is set to green using the color parameter.
-  ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/baae8d8d-8a52-4e1b-b777-b1f22ba265d8)
+   ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/baae8d8d-8a52-4e1b-b777-b1f22ba265d8)
 
 
 * This plot generates to visualize the relationship between booking cancellations (is_canceled), the number of days in the waiting list (days_in_waiting_list), and the type of deposit (deposit_type). 
@@ -123,12 +121,12 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 * This plot displays the distribution of hotel bookings across different market segments (market_segment) and their cancellation status (is_canceled).
 * In the plot, the x-axis represents the market segments, and the y-axis represents the count of bookings. The hue parameter is used to differentiate between canceled and non-canceled bookings with different colors. 
 * The plot is further enhanced by rotating the x-axis labels by 65 degrees and aligning them to the right for better readability, as specified by the set_xticklabels method.
-  ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/9510e339-512a-4682-a290-88c2b1240126)
+ ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/9510e339-512a-4682-a290-88c2b1240126)
 
 
 
 
-# Conclusions:
+## Conclusions:
 
 Cancellation count is less for repeated guests
 
