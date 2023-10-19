@@ -112,10 +112,6 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 
 Cancellation count is less for repeated guests
 
-Lead time is less for confirm bookings lead time is less for resort hotels
-
-Stay in weekend nights is equal for both confirm and cancelled cases in both the hotels but the outliers are high in confirmed classes
-
 Distribution of total special requests is left skewed
 
 Lead time is high for room types C,A and D for both the hotels
