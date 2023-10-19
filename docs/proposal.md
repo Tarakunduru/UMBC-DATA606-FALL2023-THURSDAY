@@ -85,13 +85,13 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
   ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/de9731e8-7e3c-435e-89b6-e596390c60d1)
 
 * This boxplot is designed to show the relationship between hotel booking cancellations (is_canceled), lead time (lead_time), and hotel type (hotel). 
-* The x-axis represents booking cancellations, the y-axis represents lead time, and different hotel types are differentiated using the hue parameter. 
+* The x-axis represents booking cancellations, the y-axis represents lead time. 
 * This plot aims to compare lead time distributions for canceled and non-canceled bookings for both resort and city hotels. The title "resort and city hotel outliers" suggests a focus on identifying outliers in these distributions.
    ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/974d31fc-47d5-4720-8456-321fea578864)
 
 
 * This boxplot examines the relationship between hotel booking cancellations (is_canceled), the number of weekend nights stayed (stays_in_weekend_nights), and the type of hotel (hotel). 
-* The x-axis represents booking cancellations, the y-axis represents the number of weekend nights stayed, and different hotel types are differentiated using the hue parameter.
+* The x-axis represents booking cancellations, the y-axis represents the number of weekend nights stayed.
 * The plot's purpose is to compare the distribution of weekend nights stayed for canceled and non-canceled bookings across different hotel types. The title "resort and city hotel outliers" suggests a focus on identifying outliers in this distribution.
    ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/0d4d7e1c-7c90-4037-ba2e-09910c7ee53e)
 
@@ -117,7 +117,7 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 
 
 * This plot displays the distribution of hotel bookings across different market segments (market_segment) and their cancellation status (is_canceled).
-* In the plot, the x-axis represents the market segments, and the y-axis represents the count of bookings. The hue parameter is used to differentiate between canceled and non-canceled bookings with different colors. 
+* In the plot, the x-axis represents the market segments, and the y-axis represents the count of bookings. 
 * The plot is further enhanced by rotating the x-axis labels by 65 degrees and aligning them to the right for better readability, as specified by the set_xticklabels method.
  ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/9510e339-512a-4682-a290-88c2b1240126)
 
