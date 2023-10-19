@@ -71,8 +71,6 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 
 # 4. Exploratory Data Analysis
 
-### 4.1 Data Cleaning
-
 ### 4.1.1 Checking and removing duplicates from the Data Set
 
 * Checking the duplicates from the data set 
