@@ -145,10 +145,9 @@ Lead time is high for room types C,A and D for both the hotels
 
 Deposit type is refundable waiting list days are same but the other categories it is high.
 
-## REFERENCES:
-[1]M. R. H. Subho, M. R. Chowdhury, D. Chaki, S. Islam and M. M. Rahman, "A Univariate Feature Selection Approach for Finding Key Factors of Restaurant Business," 2019 IEEE Region 10 Symposium (TENSYMP), Kolkata, India, 2019, pp. 605-610, doi: 10.1109/TENSYMP46218.2019.8971127.
-[2]V. Aggarwal, V. Gupta, P. Singh, K. Sharma and N. Sharma, "Detection of Spatial Outlier by Using Improved Z-Score Test," 2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI), Tirunelveli, India, 2019, pp. 788-790, doi: 10.1109/ICOEI.2019.8862582.
-[3].G. König, C. Molnar, B. Bischl and M. Grosse-Wentrup, "Relative Feature Importance," 2020 25th International Conference on Pattern Recognition (ICPR), Milan, Italy, 2021, pp. 9318-9325, doi: 10.1109/ICPR48806.2021.9413090.
+## References:
 
-
+* M. R. H. Subho, M. R. Chowdhury, D. Chaki, S. Islam and M. M. Rahman, "A Univariate Feature Selection Approach for Finding Key Factors of Restaurant Business," 2019 IEEE Region 10 Symposium (TENSYMP), Kolkata, India, 2019, pp. 605-610, doi: 10.1109/TENSYMP46218.2019.8971127.
+* V. Aggarwal, V. Gupta, P. Singh, K. Sharma and N. Sharma, "Detection of Spatial Outlier by Using Improved Z-Score Test," 2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI), Tirunelveli, India, 2019, pp. 788-790, doi: 10.1109/ICOEI.2019.8862582.
+* G. König, C. Molnar, B. Bischl and M. Grosse-Wentrup, "Relative Feature Importance," 2020 25th International Conference on Pattern Recognition (ICPR), Milan, Italy, 2021, pp. 9318-9325, doi: 10.1109/ICPR48806.2021.9413090.
 
