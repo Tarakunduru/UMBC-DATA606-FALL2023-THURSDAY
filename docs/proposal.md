@@ -105,6 +105,7 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
  ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/9510e339-512a-4682-a290-88c2b1240126)
 
 # 5. Feature selection methods
+
 ## 5.1 Univariate feature selection
 * Features in matrix X are scaled using Min-Max scaling with MinMaxScaler().
 * Utilizing SelectKBest with chi-squared (chi2) scoring, the code conducts independent feature selection based on significance to the target variable y.
@@ -112,7 +113,7 @@ In the Hotel Booking Cancellation Prediction project, the target variable (also 
 * The nlargest() method extracts and prints the top 10 features by chi-squared scores, providing a concise summary.
 * The printed DataFrame with 'columns' and 'Score' aids in identifying influential variables for subsequent modeling. Univariate selection simplifies models and boosts predictive performance by focusing on key features.
 
-![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/14b1f6e7-e4d6-4f46-b1d5-19fddeff1d97)
+   ![image](https://github.com/Tarakunduru/UMBC-DATA606-FALL2023-THURSDAY/assets/143665432/14b1f6e7-e4d6-4f46-b1d5-19fddeff1d97)
 
 ## 5.2 Correlation matrix with heatmap
 * The image computes a correlation matrix (data_corr) for the hotel_data, revealing relationships between variables.
